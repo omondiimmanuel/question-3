@@ -3,19 +3,7 @@ Enter "help" below or click "Help" above for more information.
 >>> 
 ============ RESTART: C:/Users/imman/OneDrive/Desktop/question_3.py ============
 enter the temperature for day0:12
-enter the temperature for day1:56
-enter the temperature for day2:56
-enter the temperature for day3:67
-enter the temperature for day4:90
-enter the temperature for day5:23
-enter the temperature for day6:16
-highest temp: 90.00
-lowest temp: 12.00
-sum of temperatures: 320.00
-Traceback (most recent call last):
-  File "C:/Users/imman/OneDrive/Desktop/question_3.py", line 16, in <module>
-    print(f"average temperature: {avg_temp:.2f}")
-NameError: name 'avg_temp' is not defined. Did you mean: 'avg_Temp'?
+
 >>> 
 ============ RESTART: C:/Users/imman/OneDrive/Desktop/question_3.py ============
 enter the temperature for day0:56
